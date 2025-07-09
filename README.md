@@ -7,10 +7,8 @@
 ## 🔗 Live Demo
 
 👉 [View Project ](https://drive.google.com/file/d/1m72sLbODaelCM3Qgd1AVnkAfgpTKSK8V/view?usp=sharing)  
-[vedio](https://drive.google.com/file/d/1m72sLbODaelCM3Qgd1AVnkAfgpTKSK8V/view?usp=sharing)
 
 
-![Alt text](mmm.mp4)
 ---
 
 
