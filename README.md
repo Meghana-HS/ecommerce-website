@@ -6,7 +6,7 @@
 
 ## 🔗 Live Demo
 
-👉 [View Project ](https://github.com/Meghana-HS/ecommerce-website/issues/1#issue-3215204380)  
+👉 [View Project ](https://github.com/Meghana-HS/ecommerce-website/issues/url)  
 
 
 
