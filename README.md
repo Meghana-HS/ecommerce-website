@@ -6,18 +6,12 @@
 
 ## 🔗 Live Demo
 
-👉 [View Project Online](https://yourusername.github.io/ecommerce-frontend/)  
-_(Replace with your GitHub Pages or Netlify URL)_
+👉 [View Project ](https://drive.google.com/file/d/1m72sLbODaelCM3Qgd1AVnkAfgpTKSK8V/view?usp=sharing)  
+
 
 ---
 
-## ✨ Screenshots
 
-| Desktop View | Mobile View |
-| ------------ | ----------- |
-| ![Desktop](screenshots/desktop.png) | ![Mobile](screenshots/mobile.png) |
-
----
 
 ## 📌 Key Features
 
@@ -54,6 +48,6 @@ _(Replace with your GitHub Pages or Netlify URL)_
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-frontend.git
+git clone https://github.com/Meghana-HS/ecommerce-website.git
 cd ecommerce-frontend
-# Open index.html in browser
+
