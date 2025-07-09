@@ -6,7 +6,8 @@
 
 ## 🔗 Live Demo
 
-👉 [View Project ](https://drive.google.com/file/d/1m72sLbODaelCM3Qgd1AVnkAfgpTKSK8V/view?usp=sharing)  
+👉 [View Project ](https://github.com/Meghana-HS/ecommerce-website/issues/1#issue-3215204380)  
+
 
 
 ---
